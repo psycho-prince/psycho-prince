@@ -1,4 +1,4 @@
-# 💫 About Me: cyber security enthusiastic 
+# whoami: cyber security enthusiastic 
 
 
 
