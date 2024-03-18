@@ -1,5 +1,5 @@
-# 💫 About Me:
-cyber security enthusiastic 
+# 💫 About Me: cyber security enthusiastic 
+
 
 
 ## 🌐 Socials:
