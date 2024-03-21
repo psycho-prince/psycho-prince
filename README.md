@@ -1,4 +1,4 @@
-# :) WHOAMI : cyber security enthusiastic 
+# :) WHOAMI 
 
 
 
