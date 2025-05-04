@@ -1,5 +1,5 @@
 
-# 👾 **Welcome to the World of Psycho-Prince** 👾
+# 👾 **Welcome to the World of Prince** 👾
 
 <p align="center">
     <h1>Hi, I'm Prince</h1>
