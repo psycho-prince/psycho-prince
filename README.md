@@ -1,52 +1,101 @@
-!---INTRODUCTION--->
 
-<p align="center"><h1 align="center"> Hi, I'm Rhyugen</h1> </p>  
-<h3 align="center">ᴄyʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋᴇʀ</h3>  
-<h2 align="center">🔏 ᴘᴇɴᴛᴇꜱᴛᴇʀ | 🐞 ʙᴜɢ ʜᴜɴᴛᴇʀ | 🎮 ᴄᴛꜰ ᴩʟᴀyᴇʀ | 💻 ᴄᴏᴅᴇʀ | 🌐 ᴏᴘᴇɴsᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h2>  
-<p align="center">  
-🙋🏻‍♂️ I'm also a <strike>student</strike> mentor. 🤓<br>  
-💻 I'm currently learning advanced penetration testing techniques. 😌 <br>  
-💯 I'm passionate about hacking, cybersecurity, and coding. 😜 <br>  
-💬 I’m open to collaboration opportunities. Let’s connect!  
-</p>  
+# 👾 **Welcome to the World of Psycho-Prince** 👾
 
-<!---SNAKE ANIMATION STARTS HERE--->
 <p align="center">
-  <img src="https://github.com/Rhyugen/Rhyugen/blob/main/assets/snake.gif" alt="Snake Animation" />
+    <h1>Hi, I'm Prince</h1>
+    <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Developer | CTF Player</h3>
 </p>
 
-<!---⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴡᴀʀᴇ--->  
+<p align="center">
+    I'm passionate about hacking, cybersecurity, coding, and everything tech! 💻⚡  
+    Currently diving deep into advanced penetration testing and security research. 🚀
+</p>
 
-<!---GITHUB STATUS--->  
-<h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ</h2>  
-<p align="center">  
- <a href=#><img src="https://github.com/Rhyugen/Rhyugen/blob/main/assets/contributions.svg"></a>  
- <br>  
- <a href="https://github.com/Rhyugen/Rhyugen/stargazers"><img src="https://img.shields.io/github/stars/Rhyugen/Rhyugen" alt="Stars Badge"/></a>  
- <a href="https://github.com/Rhyugen/Rhyugen/network/members"><img src="https://img.shields.io/github/forks/Rhyugen/Rhyugen" alt="Forks Badge"/></a>  
- <a href="https://github.com/Rhyugen/Rhyugen/pulls"><img src="https://img.shields.io/github/issues-pr/Rhyugen/Rhyugen" alt="Pull Requests Badge"/></a>  
- <a href="https://github.com/Rhyugen/Rhyugen/issues"><img src="https://img.shields.io/github/issues/Rhyugen/Rhyugen" alt="Issues Badge"/></a>  
- <a href="https://github.com/Rhyugen/Rhyugen/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Rhyugen/Rhyugen?color=2b9348"></a>  
- <a href="https://github.com/Rhyugen/Rhyugen/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Rhyugen/Rhyugen?color=2b9348" alt="License Badge"/></a>   
- <a href="https://github-readme-streak-stats.herokuapp.com?user=Rhyugen&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>  
- <br>  
- <a href="https://github.com/Rhyugen/github-readme-stats"><img alt="Rhyugen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rhyugen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>  
-</p>  
+---
 
-<!---SOCIAL MEDIA--->  
-<h2 align="center">🫂 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>  
-<p align="center">  
- <a href="https://www.linkedin.com/in/rhyugen"><img src="https://github.com/Rhyugen/Rhyugen/blob/main/assets/linkedin.svg" width="30px" /></a>  
- <a href="https://twitter.com/rhyugen"><img src="https://github.com/Rhyugen/Rhyugen/blob/main/assets/twitter.svg" width="30px" /></a>  
- <a href="mailto:rhyugen@gmail.com"><img src="https://github.com/Rhyugen/Rhyugen/blob/main/assets/gmail.svg" width="40px" /></a>  
- <a href="https://t.me/rhyugen"><img src="https://github.com/Rhyugen/Rhyugen/blob/main/assets/telegram.svg" width="30px" /></a>  
-</p>  
+## 🧑‍💻 **About Me**
+<p align="center">
+  <img src="https://github.com/psycho-prince/psycho-prince/blob/main/assets/snake.gif" alt="Snake Animation" />
+</p>
 
-<!---GITHUB'S VIEWS AND FOLLOWERS--->  
-<h2 align="center">👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ</h2>  
-<p align="center">  
-<a href="https://github.com/Rhyugen"><img src="https://komarev.com/ghpvc/?username=Rhyugen"></a>  
-<a href="https://github.com/Rhyugen?tab=followers"><img src="https://img.shields.io/github/followers/Rhyugen?label=Followers&style=social" alt="GitHub Badge"></a>  
-</p>  
+- 🔏 **Penetration Tester** | 🐞 **Bug Hunter** | 🎮 **CTF Player** | 💻 **Coder**
+- 🌱 I’m constantly learning new penetration testing techniques to stay on the edge of cybersecurity.  
+- 💬 Open to collaboration opportunities, feel free to reach out!
+- ⚡ Passionate about breaking things (legally!) to make the web a safer place. 
 
-<b>NOTE: THIS IS JUST CREATED FOR A FUN…!</b>
+---
+
+## 🔨 **Skills & Tools**
+- **Penetration Testing**  
+- **Bug Bounty**  
+- **CTF Challenges**  
+- **Web Application Security**  
+- **Network Security**  
+- **Cryptography**  
+- **Reverse Engineering**  
+- **Python, Bash Scripting, Linux**  
+
+---
+
+## 💻 **My GitHub Stats**
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=psycho-prince&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=psycho-prince&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" alt="Psycho-Prince's GitHub Stats"/>
+  </a>
+</p>
+
+---
+
+## 🧩 **My Projects**
+### 🚀 [Project 1: Hacker Tools](https://github.com/psycho-prince/hacker-tools)
+- A collection of custom-built penetration testing tools and scripts that I use in my work.
+  
+### 🔍 [Project 2: CTF Challenges](https://github.com/psycho-prince/ctf-challenges)
+- A repository dedicated to my own Capture The Flag challenges, along with write-ups and solutions.
+
+---
+
+## 📣 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/psycho-prince"><img src="https://github.com/psycho-prince/psycho-prince/blob/main/assets/linkedin.svg" width="30px" /></a>
+  <a href="https://twitter.com/psycho-prince"><img src="https://github.com/psycho-prince/psycho-prince/blob/main/assets/twitter.svg" width="30px" /></a>
+  <a href="mailto:psycho-prince@gmail.com"><img src="https://github.com/psycho-prince/psycho-prince/blob/main/assets/gmail.svg" width="40px" /></a>
+  <a href="https://t.me/psycho-prince"><img src="https://github.com/psycho-prince/psycho-prince/blob/main/assets/telegram.svg" width="30px" /></a>
+</p>
+
+---
+
+## 👾 **Fun Facts**
+- I'm obsessed with creating security challenges and CTFs. 🧩  
+- I enjoy reverse-engineering and cryptography challenges. 🔐  
+- I might have a bit of a "hacker" mentality, but it's all for good – testing systems, finding bugs, and improving security. 😎
+
+---
+
+## 👀 **GitHub Insights**
+<p align="center">
+  <a href="https://github.com/psycho-prince"><img src="https://komarev.com/ghpvc/?username=psycho-prince" alt="Profile Views"></a>
+  <a href="https://github.com/psycho-prince?tab=followers"><img src="https://img.shields.io/github/followers/psycho-prince?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+---
+
+> **"In a world of black and white, hackers see in shades of green."**  
+> ~ Psycho-Prince 🧑‍💻
+
+---
+
+## 🔒 **Hacker Mindset**
+- Always learning. Never stop hacking.  
+- Security is a continuous process, not a one-time fix.  
+- Ethical hacking is about improving systems, not just breaking them.
+
+---
+
+## 🚀 **Let's Collaborate**
+- **Interested in cybersecurity research, bug hunting, or reverse engineering?** Hit me up – I'm always ready for a challenge.
+- **Got a security issue or bug?** Let's talk! I might be able to help you patch it.
+
+---
+
+<b>NOTE: ALL HACKERS ARE NOT REAL. MAYBE I HAVE SCHIZOPHRENIA …!</b
