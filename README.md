@@ -50,8 +50,8 @@
 ### 🚀 [Project 1: CHEATING ASSISTANT](https://github.com/psycho-prince/CapDetective)
 - A collection of custom-built TOOL FOR CAPTURING RELATIONSHIPS RED HANDED .
   
-### 🔍 [Project 2: CTF Challenges](https://github.com/psycho-prince/ctf-challenges)
-- A repository dedicated to my own Capture The Flag challenges, along with write-ups and solutions.
+### 🔍 [Project 2: Web app pentesting](https://github.com/psycho-prince/website-scrapper)
+- A repository dedicated to Bug-Bounty.
 
 ---
 
