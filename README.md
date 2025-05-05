@@ -47,8 +47,8 @@
 ---
 
 ## 🧩 **My Projects**
-### 🚀 [Project 1: Hacker Tools](https://github.com/psycho-prince/hacker-tools)
-- A collection of custom-built penetration testing tools and scripts that I use in my work.
+### 🚀 [Project 1: CHEATING ASSISTANT](https://github.com/psycho-prince/CapDetective)
+- A collection of custom-built TOOL FOR CAPTURING RELATIONSHIPS RED HANDED .
   
 ### 🔍 [Project 2: CTF Challenges](https://github.com/psycho-prince/ctf-challenges)
 - A repository dedicated to my own Capture The Flag challenges, along with write-ups and solutions.
